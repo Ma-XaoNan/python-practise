@@ -18,15 +18,15 @@ from traceback import print_stack
 #           f"你是儿童，不需要交费。"
 #           f"祝您游玩愉快！")
 
-# num = 5
-# if int(input("猜一个数字：")) == num:
-#     print("恭喜你猜对了！")
-# elif int(input("在猜一个数字：")) == num:
-#     print("恭喜你猜对了！")
-# elif int(input("在猜一个数字：")) == num:
-#     print("恭喜你猜对了！")
-# else:
-#     print("sorry！")
+num = 5
+if int(input("猜一个数字：")) == num:
+    print("恭喜你猜对了！")
+elif int(input("在猜一个数字：")) == num:
+    print("恭喜你猜对了！")
+elif int(input("在猜一个数字：")) == num:
+    print("恭喜你猜对了！")
+else:
+    print("sorry！")
 
 
 
